@@ -201,9 +201,9 @@
     display: flex;
     justify-content: space-around;
     border: 0.5px solid gray;
-    max-height: 350px;
+    max-height: 400px;
     padding: 1px;
-
+    padding-bottom: 30px;
     
 }
 
@@ -270,4 +270,17 @@
 
 .btn-txt:hover{
     color: dimgray;
+}
+.container5{
+        padding-top: 80px;
+}
+
+.cup1{
+    background-image: url(cup.png);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-position: center;  
+    
 }
