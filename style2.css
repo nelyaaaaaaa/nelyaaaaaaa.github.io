@@ -93,6 +93,8 @@ header{
 .cart.active{
 	right: 0;
 	background-color: white;
+	overflow: scroll;
+  height: 500px;
 }
 .cart-title{
 	text-align: center;
